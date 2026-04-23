@@ -2,7 +2,7 @@
 
 > Analisis kampanye telemarketing deposito berjangka Bank Portugis menggunakan pendekatan CRISP-DM dan visualisasi Tableau.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](assets/dashboard.png)
 
 ---
 
